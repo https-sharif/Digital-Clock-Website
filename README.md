@@ -1,4 +1,4 @@
-# Digital Timer
+# Digital Clock Website
 
 This project is a simple digital timer implemented using HTML, CSS, and JavaScript. The timer displays the current time in a 12-hour format with an AM/PM indicator.
 
@@ -17,13 +17,13 @@ The time updates every second to reflect the current time accurately.
 ## Installation
 
 1. Clone the repository:
-  ```git clone https://github.com/yourusername/digital-timer.git```
+  ```git clone https://github.com/https-sharif/digital-timer.git```
 2. Navigate to the project directory:
   ```cd digital-timer```
 3. Open the index.html file in your web browser.
    ```open index.html```
 
-## [Live Demo](https://sharif-islam96403.github.io/Digital-Clock-Website/)
+## [Live Demo](https://https-sharif.github.io/Digital-Clock-Website/)
   
 
 Feel free to pull request or suggest improvements.
